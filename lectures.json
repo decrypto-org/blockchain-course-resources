@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Bitcoin",
+    "description": "Bitcoin internals",
+    "position": 0,
+    "files": [
+      {
+        "title": "Bitcoin #1",
+        "description": "Addresses, wallets, transactions, blockchain and consensus",
+        "hash": "c2d8d9e74d051e74c2656bfa69c5f0165f962085eb5ef4ccbf35ba2f26f9efe1",
+        "fileType": "pdf"
+      }
+    ]
+  }
+]
