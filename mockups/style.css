@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'Arcade Classic';
+  src: url('arcadeclassic.ttf') format('truetype');
+}
+body {
+  font-family: 'Arcade Classic';
+  background-color: black;
+  color: white;
+}
+td.score {
+  text-align: right;
+}
+table {
+  margin: auto;
+  font-size: 400%;
+}
+table tbody tr:nth-child(1) {
+  color: red;
+}
+table tbody tr:nth-child(2) {
+  color: orange;
+}
+table tbody tr:nth-child(3) {
+  color: yellow;
+}
+table tbody tr:nth-child(4) {
+  color: green;
+}
+table tbody tr:nth-child(5) {
+  color: cyan;
+}
+table tbody tr:nth-child(6) {
+  color: magenta;
+}
+table tbody tr:nth-child(7) {
+  color: blue;
+}
+h1 {
+  text-align: center;
+  font-size: 700%;
+  letter-spacing: 0.1em;
+}
+button {
+  font-family: 'Arcade Classic';
+  margin: auto;
+  display: block;
+  font-size: 400%;
+  cursor: pointer;
+}
+p {
+  font-size: 400%;
+  text-align: center;
+  color: orange;
+}
+p a {
+  color: red;
+  font-weight: normal;
+}
+canvas {
+  border: 1px solid blue;
+  display: block;
+  margin: auto;
+}
