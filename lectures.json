@@ -8,14 +8,14 @@
   		"files": [{
   				"title": "Cryptographic primitives",
   				"description": "Introduction to hash functions, proof-of-work, commitment schemes and digital signatures",
-  				"hash": "2c6f871d9ae041050e7337d404ae2a00eb192a0932574bc6e27b30fc9a59241f",
+  				"hash": "227c1e3af1611e868c5a2334c5c0aa1d030864cd4036f969b58dedbc82cee754",
   				"fileType": "pdf",
   				"position": 0
   			},
   			{
   				"title": "Merkle Trees",
   				"description": "Introduction to merkle trees and patricia tries",
-  				"hash": "227c1e3af1611e868c5a2334c5c0aa1d030864cd4036f969b58dedbc82cee754",
+  				"hash": "2c6f871d9ae041050e7337d404ae2a00eb192a0932574bc6e27b30fc9a59241f",
   				"fileType": "pdf",
   				"position": 1
   			}
