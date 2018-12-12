@@ -1,72 +1,85 @@
 {
   "lectures": [
     {
-  		"title": "Cryptographic primitives",
-  		"description": "Introduction to cryptographic primitives",
-  		"position": 0,
-  		"name": "cryptographic-primitives",
-  		"files": [{
-  				"title": "Cryptographic primitives",
-  				"description": "Introduction to hash functions, proof-of-work, commitment schemes and digital signatures",
-  				"hash": "227c1e3af1611e868c5a2334c5c0aa1d030864cd4036f969b58dedbc82cee754",
-  				"fileType": "pdf",
-  				"position": 0
-  			},
-  			{
-  				"title": "Merkle Trees",
-  				"description": "Introduction to merkle trees and patricia tries",
-  				"hash": "2c6f871d9ae041050e7337d404ae2a00eb192a0932574bc6e27b30fc9a59241f",
-  				"fileType": "pdf",
-  				"position": 1
-  			}
-  		]
-  	},
-  	{
-  		"title": "Bitcoin",
-  		"description": "Bitcoin internals",
-  		"position": 1,
-  		"name": "bitcoin",
-  		"files": [{
-  				"title": "Bitcoin #1",
-  				"description": "Addresses, wallets, transactions, blockchain and consensus",
-  				"hash": "c2d8d9e74d051e74c2656bfa69c5f0165f962085eb5ef4ccbf35ba2f26f9efe1",
-  				"fileType": "pdf",
-  				"position": 0
-  			},
-  			{
-  				"title": "Bitcoin scripts",
-  				"description": "Bicoint scripts: The first smart contract language",
-  				"hash": "59857b2be74465a9cca01abdce0ad7bc762225b2d0e4db5290269697bec44fc1",
-  				"fileType": "pdf",
-  				"position": 1
-  			}
-  		]
-  	},
-  	{
-  		"title": "Ethereum",
-  		"description": "Introduction to Ethereum",
-  		"position": 2,
-  		"name": "ethereum",
-  		"files": [{
-  			"title": "Ethereum",
-  			"description": "Accounts, transactions and smart contracts",
-  			"hash": "a022f114baf9b98d18f15bd14df2adb246bf1b25d438a3d1ff198567b0249242",
-  			"fileType": "pdf",
-  			"position": 0
-  		}]
-  	},
-  	{
-  		"title": "Consensus",
-  		"description": "Everything about consensus mechanisms",
-  		"position": 3,
-  		"name": "consensus",
-  		"files": [{
-  			"title": "The Blockchain Backbone Model",
-  			"description": "Invented by Juan Garay, Aggelos Kiayias, Nikos Leonardos",
-  			"hash": "fddbf527e9a61299c4a3c80fb508ce6265743a78f31bf6c6c7dd67c6563caa8d",
-  			"fileType": "pdf",
-  			"position": 0
-  		}]
-  	}
+        "title": "Cryptographic primitives",
+        "description": "Introduction to cryptographic primitives",
+        "position": 0,
+        "name": "cryptographic-primitives",
+        "files": [{
+                "title": "Cryptographic primitives",
+                "description": "Introduction to hash functions, proof-of-work, commitment schemes and digital signatures",
+                "hash": "227c1e3af1611e868c5a2334c5c0aa1d030864cd4036f969b58dedbc82cee754",
+                "fileType": "pdf",
+                "position": 0
+            },
+            {
+                "title": "Merkle Trees",
+                "description": "Introduction to merkle trees and patricia tries",
+                "hash": "2c6f871d9ae041050e7337d404ae2a00eb192a0932574bc6e27b30fc9a59241f",
+                "fileType": "pdf",
+                "position": 1
+            }
+        ]
+    },
+    {
+        "title": "Bitcoin",
+        "description": "Bitcoin internals",
+        "position": 1,
+        "name": "bitcoin",
+        "files": [{
+                "title": "Bitcoin #1",
+                "description": "Addresses, wallets, transactions, blockchain and consensus",
+                "hash": "c2d8d9e74d051e74c2656bfa69c5f0165f962085eb5ef4ccbf35ba2f26f9efe1",
+                "fileType": "pdf",
+                "position": 0
+            },
+            {
+                "title": "Bitcoin scripts",
+                "description": "Bicoint scripts: The first smart contract language",
+                "hash": "59857b2be74465a9cca01abdce0ad7bc762225b2d0e4db5290269697bec44fc1",
+                "fileType": "pdf",
+                "position": 1
+            }
+        ]
+    },
+    {
+        "title": "Ethereum",
+        "description": "Introduction to Ethereum",
+        "position": 2,
+        "name": "ethereum",
+        "files": [{
+            "title": "Ethereum",
+            "description": "Accounts, transactions and smart contracts",
+            "hash": "a022f114baf9b98d18f15bd14df2adb246bf1b25d438a3d1ff198567b0249242",
+            "fileType": "pdf",
+            "position": 0
+        }]
+    },
+    {
+        "title": "Consensus",
+        "description": "Everything about consensus mechanisms",
+        "position": 3,
+        "name": "consensus",
+        "files": [{
+            "title": "The Blockchain Backbone Model",
+            "description": "Invented by Juan Garay, Aggelos Kiayias, Nikos Leonardos",
+            "hash": "fddbf527e9a61299c4a3c80fb508ce6265743a78f31bf6c6c7dd67c6563caa8d",
+            "fileType": "pdf",
+            "position": 0
+        }]
+    },
+    {
+        "title": "Sidechains",
+        "description": "NIPoPoWs and proof-of-work sidechains",
+        "position": 3,
+        "name": "sidechains",
+        "files": [{
+            "title": "NIPoPoWs and Proof-of-Work Sidechains",
+            "description": "How Non-Interactive Proofs of Proof-of-Works work and how they can be used to build trustless sidechains",
+            "hash": "252f8e349545b4f1a0548472cf2cdf5e7cd5adeb05ec6e21f08fc7876720b852",
+            "fileType": "pdf",
+            "position": 0
+        }]
+    }
   ]
 }
