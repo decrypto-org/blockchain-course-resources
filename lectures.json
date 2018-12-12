@@ -8,7 +8,7 @@
                 "title": "Cryptographic primitives",
                 "description": "Introduction to hash functions, proof-of-work, commitment schemes and digital signatures",
                 "hash": "227c1e3af1611e868c5a2334c5c0aa1d030864cd4036f969b58dedbc82cee754",
-                "fileType": "pdf",
+                "fileType": "pdf"
             },
             {
                 "title": "Merkle Trees",
