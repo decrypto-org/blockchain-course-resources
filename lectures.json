@@ -1,6 +1,18 @@
 {
   "lectures": [
     {
+        "title": "Introduction to blockchain",
+        "description": "Cryptocurrencies from a user’s perspective",
+        "name": "introduction",
+        "files": [{
+                "title": "Introduction to blockchain science & engineering",
+                "description": "What is money ?, The never-ending book parable, Cryptocurrencies from a user’s perspective",
+                "hash": "6e839b54ccb861fd848b8859e5b927cf83b0425acf05daf55127a67dc0c91916",
+                "fileType": "pdf"
+            }
+        ]
+    },
+    {
         "title": "Cryptographic primitives",
         "description": "Introduction to cryptographic primitives",
         "name": "cryptographic-primitives",
