@@ -63,12 +63,21 @@
         "title": "Consensus",
         "description": "Everything about consensus mechanisms",
         "name": "consensus",
-        "files": [{
+        "files": [
+          {
             "title": "The Blockchain Backbone Model",
             "description": "Invented by Juan Garay, Aggelos Kiayias, Nikos Leonardos",
             "hash": "fddbf527e9a61299c4a3c80fb508ce6265743a78f31bf6c6c7dd67c6563caa8d",
             "fileType": "pdf"
-        }]
+        },
+        {
+            "title": "Consensus and Distributed Ledgers via Blockchain Data Structure",
+            "description": "The Consensus Problem, The Consensus Problem, Blockchain Properties, \"Racing attacks\", Consensus and distributed ledger (what is the relation), Difficulty Adjustment, The Bahack attack",
+            "hash": "75ee78ad4a720294ea5553809cd9623fae63fa21c871301af30d2b61c420835a",
+            "fileType": "pdf"
+
+        }
+      ]
     },
     {
         "title": "Sidechains",
