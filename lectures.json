@@ -23,9 +23,9 @@
                 "fileType": "pdf"
             },
             {
-                "title": "Merkle Trees",
-                "description": "Introduction to merkle trees and patricia tries",
-                "hash": "2c6f871d9ae041050e7337d404ae2a00eb192a0932574bc6e27b30fc9a59241f",
+                "title": "Authenticated Data Structures",
+                "description": "Merkle trees, Proofs-of-inclusion, Proofs-of-non-inclusion, Merkle Patricia tries",
+                "hash": "b985c5ce9c600a5cf35833484c1f6bc4031772dc5af950121bae47f95c4e351c",
                 "fileType": "pdf"
             }
         ]
