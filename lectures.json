@@ -1,8 +1,8 @@
 {
   "lectures": [
     {
-        "title": "Introduction to blockchain",
-        "description": "Cryptocurrencies from a user’s perspective",
+        "title": "Week 1: Introduction to blockchain",
+        "description": "Motivation, Cryptocurrencies from a user’s perspective",
         "name": "introduction",
         "files": [{
                 "title": "Introduction to blockchain science & engineering",
@@ -13,82 +13,46 @@
         ]
     },
     {
-        "title": "Cryptographic primitives",
-        "description": "Introduction to cryptographic primitives",
+        "title": "Week 2: Cryptographic primitives",
+        "description": "Hash functions, Digital signatures, Proof-of-Work",
         "name": "cryptographic-primitives",
-        "files": [{
+        "files": [
+          {
                 "title": "Cryptographic primitives",
                 "description": "Introduction to hash functions, proof-of-work, commitment schemes and digital signatures",
                 "hash": "227c1e3af1611e868c5a2334c5c0aa1d030864cd4036f969b58dedbc82cee754",
                 "fileType": "pdf"
-            },
-            {
-                "title": "Authenticated Data Structures",
-                "description": "Merkle trees, Proofs-of-inclusion, Proofs-of-non-inclusion, Merkle Patricia tries",
-                "hash": "b985c5ce9c600a5cf35833484c1f6bc4031772dc5af950121bae47f95c4e351c",
-                "fileType": "pdf"
             }
         ]
     },
     {
-        "title": "Bitcoin",
-        "description": "Bitcoin internals",
-        "name": "bitcoin",
-        "files": [{
-                "title": "Bitcoin #1",
-                "description": "Addresses, wallets, transactions, blockchain and consensus",
-                "hash": "c2d8d9e74d051e74c2656bfa69c5f0165f962085eb5ef4ccbf35ba2f26f9efe1",
-                "fileType": "pdf"
-            },
-            {
-                "title": "Bitcoin scripts",
-                "description": "Bicoint scripts: The first smart contract language",
-                "hash": "59857b2be74465a9cca01abdce0ad7bc762225b2d0e4db5290269697bec44fc1",
-                "fileType": "pdf"
-            }
+        "title": "Week 3: The Blockchain Network and Data Structures",
+        "description": "Authenticated Data Structures, Merkle Trees, Blocks, Blockchains, Peer-to-peer networks",
+        "name": "authenticated-data-structures",
+        "files": [
+          {
+              "title": "Authenticated Data Structures",
+              "description": "Authenticated Data Structures, Merkle Trees, Blocks, Blockchains, Peer-to-peer networks",
+              "hash": "b985c5ce9c600a5cf35833484c1f6bc4031772dc5af950121bae47f95c4e351c",
+              "fileType": "pdf"
+          }
         ]
     },
     {
-        "title": "Ethereum",
-        "description": "Introduction to Ethereum",
-        "name": "ethereum",
-        "files": [{
-            "title": "Ethereum",
-            "description": "Accounts, transactions and smart contracts",
-            "hash": "a022f114baf9b98d18f15bd14df2adb246bf1b25d438a3d1ff198567b0249242",
-            "fileType": "pdf"
-        }]
-    },
-    {
-        "title": "Consensus",
-        "description": "Everything about consensus mechanisms",
+        "title": "Week 4: Consensus and Distributed Ledgers via Blockchain Data Structure",
+        "description": "The Consensus Problem, Blockchain Properties, Ledger Properties, Honest Majority, Difficulty",
         "name": "consensus",
         "files": [
           {
-            "title": "The Blockchain Backbone Model",
-            "description": "Invented by Juan Garay, Aggelos Kiayias, Nikos Leonardos",
-            "hash": "fddbf527e9a61299c4a3c80fb508ce6265743a78f31bf6c6c7dd67c6563caa8d",
-            "fileType": "pdf"
-        },
-        {
-            "title": "Consensus and Distributed Ledgers via Blockchain Data Structure",
-            "description": "The Consensus Problem, Blockchain Properties, \"Racing attacks\", Consensus and distributed ledger (what is the relation), Difficulty Adjustment, The Bahack attack",
-            "hash": "75ee78ad4a720294ea5553809cd9623fae63fa21c871301af30d2b61c420835a",
-            "fileType": "pdf"
+              "title": "Consensus and Distributed Ledgers via Blockchain Data Structure",
+              "description": "The Consensus Problem, Blockchain Properties, \"Racing attacks\", Consensus and distributed ledger (what is the relation), Difficulty Adjustment, The Bahack attack",
+              "hash": "75ee78ad4a720294ea5553809cd9623fae63fa21c871301af30d2b61c420835a",
+              "fileType": "pdf"
 
-        }
-      ]
+          }
+        ]
     },
     {
-        "title": "Sidechains",
-        "description": "NIPoPoWs and proof-of-work sidechains",
-        "name": "sidechains",
-        "files": [{
-            "title": "NIPoPoWs and Proof-of-Work Sidechains",
-            "description": "How Non-Interactive Proofs of Proof-of-Works work and how they can be used to build trustless sidechains",
-            "hash": "252f8e349545b4f1a0548472cf2cdf5e7cd5adeb05ec6e21f08fc7876720b852",
-            "fileType": "pdf"
-        }]
     }
   ]
 }
