@@ -53,6 +53,18 @@
         ]
     },
     {
+        "title": "Week 5: Transactions",
+        "description": "Addresses, The UTXO model, Transactions, Double Spending, Confirmation, Bitcoin Script",
+        "name": "bitcoin",
+        "files": [
+          {
+              "title": "UTXO and the Bitcoin application layer",
+              "description": "Transactions, exchange, bitcoin graph, nodes,edges, values, owners, utxo, coinbase, mining, consensus,blockchain, genesis, Bitcoin script, p2pk, p2pkh, multisig",
+              "hash": "f2155a93d4228fbda908c050278131c1b2b97faafc3b567a879957d113e93997",
+              "fileType": "pdf"
+
+          }
+        ]
     }
   ]
 }
