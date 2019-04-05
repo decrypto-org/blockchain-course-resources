@@ -65,6 +65,20 @@
 
           }
         ]
+    },
+    {
+        "title": "Week 6: Blockchain Economics and Incentives",
+        "description": "Mining parameters, Mining, Mining Pools, Wallets, Mining Games",
+        "name": "economics",
+        "files": [
+          {
+              "title": "Blockchain Economics and Incentives",
+              "description": "Mining incentives, fees, rewards, coinbase transaction, money supply, market capitalization, target, difficulty, mining pools, ways to mine, full nodes, spv nodes, wallets, Bitcoin and Nash Equilibrium, selfish mining",
+              "hash": "f08f171d9463d6b5e482f339ec239409ff35d8ca86cc812bbd23840b0eb44579",
+              "fileType": "pdf"
+
+          }
+        ]
     }
   ]
 }
