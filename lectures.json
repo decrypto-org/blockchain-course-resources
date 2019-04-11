@@ -79,6 +79,20 @@
 
           }
         ]
+    },
+    {
+        "title": "Week 7: The Backbone Model",
+        "description": "The Ledger Objective, Execution model, The environment, Basic Properties, Executions, Bahack attack",
+        "name": "backbone",
+        "files": [
+          {
+              "title": "The Backbone Model",
+              "description": "The Ledger Objective, Execution model, The environment, Basic Properties, Executions, Bahack attack",
+              "hash": "665d1ba5c3b4d97504138524d092690886f8a250ec01442dc82e8a0cd795ed5e",
+              "fileType": "pdf"
+
+          }
+        ]
     }
   ]
 }
