@@ -93,6 +93,27 @@
 
           }
         ]
+    },
+    {
+        "title": "Week 8: Ethereum",
+        "description": "Accounts, Transactions, Smart contracts, Solidity",
+        "name": "ethereum",
+        "files": [
+          {
+              "title": "Ethereum",
+              "description": "Accounts, Transactions, Smart contracts, Solidity",
+              "hash": "52369b6486b90822a708bef59f8ce25d8357cd512d9b12966c95617d0029cd9a",
+              "fileType": "pdf"
+
+          },
+          {
+              "title": "Ethereum Tutorial",
+              "description": "Installing Metamask, Get ether from a faucet for Ropsten testnet, Interacting with Remix",
+              "hash": "c7bc380f5a9b1fb14130a654605c09b3dbb372e2836a75dea35fb90b84366e5a",
+              "fileType": "pdf"
+
+          }
+        ]
     }
   ]
 }
