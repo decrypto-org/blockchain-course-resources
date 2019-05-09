@@ -114,6 +114,20 @@
 
           }
         ]
+    },
+    {
+        "title": "Week 9: Secure Multiparty Computation and Applications",
+        "description": "Secret Sharing, MPC, Fair swaps and MPC, Blockchain and MPC",
+        "name": "smpc",
+        "files": [
+          {
+              "title": "Secure Multiparty Computation and Applications",
+              "description": "Multi-sig transactions, Sharing Secret Keys, Finite Cyclic Groups, Secret-Sharing, Coin-flipping, PVSS. MPC, Using a blockchain",
+              "hash": "4fa395d9505b7aabd7ebe6f25c6d4bf45c5146ae4dfa4ac8423ef961cd78c147",
+              "fileType": "pdf"
+
+          }
+        ]
     }
   ]
 }
