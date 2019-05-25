@@ -112,6 +112,13 @@
               "hash": "ca83ac12e9775b39bfcee14ebe98889905b717e06a4fa767af7d8ca62e008aad",
               "fileType": "pdf"
 
+          },
+          {
+              "title": "Introduction to Solidity",
+              "description": "Types, data location, visibility, fallback function, send ether, interacting with other contracts",
+              "hash": "f1b01470c16fe04c65d3bfa06208a998f031009fc3bbbd6829454c83ff940089",
+              "fileType": "pdf"
+
           }
         ]
     },
@@ -124,6 +131,34 @@
               "title": "Secure Multiparty Computation and Applications",
               "description": "Multi-sig transactions, Sharing Secret Keys, Finite Cyclic Groups, Secret-Sharing, Coin-flipping, PVSS, MPC, Using a blockchain",
               "hash": "4fa395d9505b7aabd7ebe6f25c6d4bf45c5146ae4dfa4ac8423ef961cd78c147",
+              "fileType": "pdf"
+
+          }
+        ]
+    },
+    {
+        "title": "Week 10: Byzantine Fault Tolerance and PoS Blockchains",
+        "description": "Byzantine Consensus, Exponential Information Gathering, Bitcoin Consensus, PoS Consensus",
+        "name": "bft",
+        "files": [
+          {
+              "title": "Blockchain Governance and safekeeping",
+              "description": "The problem of upgrades, Hard forks, Soft forks, Velvet forks, Bitcoin block sizes, The bitcoin civil war, DAO hack, Bitcoin history, Wallets",
+              "hash": "e0dde7ddd211137af9011b2df4224a83f43d049583f945a097fbde54c36a0eab",
+              "fileType": "pdf"
+
+          }
+        ]
+    },
+    {
+        "title": "Week 11: Solidity",
+        "description": "Smart Contract Best Practices",
+        "name": "solidity",
+        "files": [
+          {
+              "title": "Solidity",
+              "description": "Storage layout, Security of smart contracts, Reentrancy, Integer overflows and underflows, DoS, Forcibly Sending Ether to a Contract, Delegate call, tx.origin, Design patterns, front-running, Randomness",
+              "hash": "748ee2941646a4c7664ef9badbc3b236537e7aa905ac21989020c0bc3eb8abbb",
               "fileType": "pdf"
 
           }
