@@ -142,6 +142,13 @@
         "name": "bft",
         "files": [
           {
+              "title": "BFT Protocols",
+              "description": "Byzantine Consensus, EIG, Impossibility results, PoS, Common-Prefix Property and Agreement, Chain-Quality Property and Validity",
+              "hash": "3fca2770b622424e72274929144338e628a8bee1620a150099e5d076fb92b461",
+              "fileType": "pdf"
+
+          },
+          {
               "title": "Blockchain Governance and safekeeping",
               "description": "The problem of upgrades, Hard forks, Soft forks, Velvet forks, Bitcoin block sizes, The bitcoin civil war, DAO hack, Bitcoin history, Wallets",
               "hash": "e0dde7ddd211137af9011b2df4224a83f43d049583f945a097fbde54c36a0eab",
