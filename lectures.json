@@ -170,6 +170,20 @@
 
           }
         ]
-    }
+    },
+    {
+        "title": "Week 12: The Backbone Model",
+        "description": "Liveness, Persistence, Network model, Execution, Enviroment, Assumptions, Backbone Protocol, Security Properties"
+        "name": "backbone-model",
+        "files": [
+          {
+              "title": "The Backbone Model",
+              "description": "Liveness, Persistence, Network model, Execution, Enviroment, Assumptions, Backbone Protocol, Security Properties"
+              "hash": "787996d6aef066e6c1e4afe90e8590b13941683be9a646850f3b6ff019b5853e",
+              "fileType": "pdf"
+
+          }
+        ]
+    },
   ]
 }
